@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.container {
+    display: block;
+    margin: auto;
+    position: relative;
+    top: 40vh;
+    text-align: center;
+    font-family: Courier;
+}
+
+nav ul {
+    display: flex;
+    width: 80vw;
+    max-width: 40ch;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: auto;
+
+    > * {
+	flex: 1;
+	padding: 0.5em;
+	margin: 1em;
+	background-color: #844;
+	border-radius: 0.5em;
+	color: white;
+	text-decoration: none;
+	transition: 0.2s;
+
+	&:hover {
+	    transform: scale(1.1);
+	}
+    }
+}
+
+li {
+    display: inline;
+}

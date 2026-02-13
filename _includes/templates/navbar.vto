@@ -1,0 +1,9 @@
+<nav class="top-navbar">
+  {{ for link of home.links }}
+    <li class="nav-link">
+      <a href="{{ link.url }}"{{ if link.newtab }} target="_blank"{{ /if }}>
+        {{ link.label }}
+      </a>
+    </li>
+  {{ /for }}
+</nav>

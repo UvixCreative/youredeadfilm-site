@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{title}}</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="/css/base.css"/>
+    {{ for style of styles }}
+    <link rel="stylesheet" type="text/css" href="/css/{{style}}"/>
+    {{ /for }}
+  </head>
+  <body>
+    {{ if !hidenav }}
+    {{ include "templates/navbar.vto" }}
+    {{ /if }}
+      {{ content }}
+  </body>
+</html>

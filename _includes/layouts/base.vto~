@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{title}}</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="/css/base.css"/>
+    {{ for style of styles }}
+    <link rel="stylesheet" type="text/css" href="/css/{{style}}"/>
+    {{ /for }}
+  </head>
+  <body>
+    {{ if !hidenav }}
+    {{ include "templates/navbar.vto" }}
+    <nav class="top-navbar">
+  <a href="/" class="top-nav-home">
+    <img style="filter: invert(100%);" src="https://www.svgrepo.com/show/535439/home-1.svg"</img>
+	 Home
+  </a>      
+      <ul class="top-navbar-links">
+	{{- for link of home.links }}
+	<li class="hover-underline">
+          <a href="{{ link.url }}"{{ if link.newtab }} target="_blank"{{ /if }}>
+            {{ link.label }}
+          </a>
+	</li>
+	{{ /for }}
+      </ul>
+    </nav>
+    {{ /if }}
+      {{ content }}
+  </body>
+</html>

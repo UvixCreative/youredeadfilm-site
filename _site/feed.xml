@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:webfeeds="http://webfeeds.org/rss/1.0" version="2.0">
+  <channel>
+    <title>IF YOU CAN READ THIS YOU'RE DEAD</title>
+    <link>http://localhost:3000/</link>
+    <atom:link href="http://localhost:3000/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>im makin a movie</description>
+    <lastBuildDate>Fri, 13 Feb 2026 01:31:01 GMT</lastBuildDate>
+    <language>en</language>
+    <generator>Lume v3.0.11</generator>
+  </channel>
+</rss>
