@@ -4,3 +4,10 @@ metas:
   title: "IF YOU CAN READ THIS YOU'RE DEAD"
   image: /assets/ogimage.jpg
   lang: en
+
+nav:
+  links:
+    - label: "Home"
+      url: "/"
+    - label: "Casting call"
+      url: "/casting-call"

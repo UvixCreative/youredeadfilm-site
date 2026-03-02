@@ -3,16 +3,36 @@ body {
     color: white;
 }
 
+nav.top-navbar {
+    ul {
+	margin: auto;
+	width: 100%;
+    }
+    li {
+	display: block;
+	font-family: Courier;
+	font-weight: bold;
+	font-size: 1.5em;
+    }
+    a {
+	color: #a33;
+    }
+}
+
+h1 {
+    font-family: Anton;
+}
+
 .container {
     display: block;
-    margin: auto;
+    margin: 1ch;
     position: relative;
     top: 40vh;
     text-align: center;
     font-family: Courier;
 }
 
-nav ul {
+.container nav ul {
     display: flex;
     width: 80vw;
     max-width: 60ch;
@@ -20,11 +40,15 @@ nav ul {
     flex-wrap: wrap;
     margin: auto;
 
+    li {
+	display: inline;
+    }
+
     > * {
 	flex: 1;
 	padding: 0.75em;
 	margin: 1em;
-	background-color: #a44;
+	background-color: #a33;
 	border-radius: 0.5em;
 	color: white;
 	text-decoration: none;
@@ -36,13 +60,17 @@ nav ul {
     }
 }
 
-li {
-    display: inline;
+.announcement {
+    font-weight: bold;
+
+    a {
+	color: #a33;
+    }
 }
 
 @media only screen and (max-aspect-ratio: 4/3) {
     body {
-	font-size: 1.5rem;
+	font-size: 2rem;
     }
 
     nav ul {
