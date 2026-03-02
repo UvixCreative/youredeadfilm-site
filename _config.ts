@@ -12,7 +12,7 @@ site.use(blog());
 site.use(googleFonts({
   cssFile: "/css/fonts.css",
   fonts: 
-    "https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Anton&display=swap",
+    "https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Anton&family=Oswald&display=swap",
 }));
 
 site.add("css");

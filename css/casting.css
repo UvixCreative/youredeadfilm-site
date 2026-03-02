@@ -1,0 +1,10 @@
+body {
+    margin: auto;
+    max-width: 90vw;
+    width: 100ch;
+    font-weight: 200;
+}
+
+h2 {
+    font-family: Courier;
+}

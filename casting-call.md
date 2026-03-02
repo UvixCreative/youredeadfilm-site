@@ -1,12 +1,26 @@
 ---
 layout: layouts/base.vto
-hidenav: false
+styles: ["casting.css"]
 ---
 
-# IF YOU CAN READ THIS, YOU'RE DEAD
-
-## Casting Call!
+## About
 
 Written and directed by Ben Rankin, this absurdist dramedy is about a man named Chance who wakes up to the newspaper headline “If You Can Read This, You’re Dead.” The story follows him as he relives some of his memories and comes to terms with his fate.
 
-Production will begin in April. This is a non-union production, and pay is dependent on funding. For more information on auditions, production, and scheduling, please see the attached audition packet or contact us at contact@youredeadfilm.com.
+## Auditioning
+
+Auditions will be held virtually on March 12, 14, and 16 from 6:00pm-8:00pm. Please email us at [contact@youredeadfilm.com](mailto:contact@youredeadfilm.com) to reserve a time slot or inquire about alternative audition dates/times. This short film has roles for actors of many different ages and experience levels, so we encourage anyone interested to reach out and audition!
+
+Production will begin in April in Chattanooga, TN. This is a non-union production, and pay is dependent on funding. Shooting days will be Saturdays and Mondays through May, though not all actors will be needed for all shooting days. Please reach out to [contact@youredeadfilm.com](mailto:contact@youredeadfilm.com) with any questions or concerns.
+
+## Characters
+
+- Chance (lead): male, late 20s- early 30s
+- Parking Attendant (supporting): female, any age
+- Sam (supporting): female, early 20s
+- Delaney (ensemble): male, early 20s
+- Max (ensemble): female, early 20s
+- Lou (ensemble): male, early 20s
+- Mom (ensemble): female, voiceover-only
+- Dad (ensemble): male, 50+
+- Miscellaneous Ensemble: any age/gender (speaking and non-speaking roles available)
