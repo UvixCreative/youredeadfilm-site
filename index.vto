@@ -9,7 +9,7 @@ layout: layouts/base.vto
   <nav>
     <ul>
       {{ for i of home.links }}
-      <a href="{{i.url}}" target="_blank"><li>{{ i.label }}</li></a>
+      <a href="{{i.url}}" target="_blank" class="button" id={{i.label}}><li>{{ i.label }}</li></a>
       {{ /for }}
     </ul>
   </nav>
