@@ -52,8 +52,9 @@ h1 {
 .container {
     display: block;
     margin: 1ch;
+    padding: 10vh 0;
     position: relative;
-    top: 20vh;
+    top: 10vh;
     text-align: center;
     font-family: "Courier Prime";
 }
