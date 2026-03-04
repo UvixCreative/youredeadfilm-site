@@ -82,7 +82,7 @@ h1 {
 
 .button {
     padding: 0.75em;
-    margin: 1em;
+    margin: 0.5em;
     background-color: var(--teal);
     font-family: Oswald;
     font-weight: bold;
