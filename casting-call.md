@@ -9,9 +9,9 @@ Written and directed by Ben Rankin, this absurdist dramedy is about a man named 
 
 ## Auditioning
 
-Auditions will be held virtually on March 12, 14, and 16 from 6:00pm-8:00pm. Please email us at [contact@youredeadfilm.com](mailto:contact@youredeadfilm.com) to reserve a time slot or inquire about alternative audition dates/times. This short film has roles for actors of many different ages and experience levels, so we encourage anyone interested to reach out and audition!
+Auditions will be held virtually on March 12, 14, and 16 from 6:00pm-8:00pm. Please fill <u>out the form below</u> to reserve a time slot or inquire about alternative audition dates/times. This short film has roles for actors of many different ages and experience levels, so we encourage anyone interested to reach out and audition!
 
-Production will begin in April in Chattanooga, TN. This is a non-union production, and pay is dependent on funding. Shooting days will be Saturdays and Mondays through May, though not all actors will be needed for all shooting days. Please reach out to [contact@youredeadfilm.com](mailto:contact@youredeadfilm.com) with any questions or concerns.
+Production will begin in April in Chattanooga, TN. This is a non-union production, and pay is dependent on funding. Food will be provided during production days. Shooting days will be Saturdays and Mondays through May, though not all actors will be needed for all shooting days. Please reach out to [contact@youredeadfilm.com](mailto:contact@youredeadfilm.com) with any questions or concerns.
 
 ## Characters
 
@@ -25,4 +25,4 @@ Production will begin in April in Chattanooga, TN. This is a non-union productio
 - Dad (ensemble): male, 50+
 - Miscellaneous Ensemble: any age/gender (speaking and non-speaking roles available)
 
-<a href="https://forms.google.com/" target="_blank" class="button" style="margin-top: 1ch;">Apply now</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeV0OWfYNal8p6KFd-5RWydCLLtg-TCR3s_mZ8_ghz7P6blxQ/viewform" target="_blank" class="button" style="margin-top: 1ch;">Apply now</a>
