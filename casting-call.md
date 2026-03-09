@@ -25,4 +25,8 @@ Production will begin in April in Chattanooga, TN. This is a non-union productio
 - Dad (ensemble): male, 50+
 - Miscellaneous Ensemble: any age/gender (speaking and non-speaking roles available)
 
+## Crew
+
+If you're interested in joining the crew (helping with lighting, camera, props, etc), use the same form below and just answer "Yes" to the question at the end!
+
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeV0OWfYNal8p6KFd-5RWydCLLtg-TCR3s_mZ8_ghz7P6blxQ/viewform" target="_blank" class="button" style="margin-top: 1ch;">Apply now</a>
