@@ -1,6 +1,6 @@
 ---
 layout: layouts/base.vto
-styles: ["casting.css"]
+styles: ["page.css"]
 ---
 
 ## About
