@@ -27,7 +27,7 @@ Production will begin in late April in Chattanooga, TN. This is a non-union prod
 
 ## Crew
 
-If you're interested in joining the crew (helping with lighting, camera, props, etc), use the same form below and just answer "Yes" to the question at the end!
+If you're interested in joining the crew (helping with lighting, camera, props, production assistant, etc), you can send us an email at [contact@youredeadfilm.com](mailto:contact@youredeadfilm.com) or DM us on our socials.
 
-<a href="https://cloud.uvix.cc/s/FJpka5MekWbq35M" target="_blank" class="button" style="margin-top: 1ch;">Download audition packet</a>
-<a href="https://doodle.com/bp/benrankin/youre-dead-auditions" target="_blank" class="button" style="margin-top: 1ch;">Schedule an audition</a>
+<a href="https://cloud.uvix.cc/s/FJpka5MekWbq35M" target="_blank" class="button" style="margin: 1.5ch inherit;">Download audition packet</a>
+<a href="https://doodle.com/bp/benrankin/youre-dead-auditions" target="_blank" class="button" style="margin: 1.5ch inherit;">Schedule an audition</a>
