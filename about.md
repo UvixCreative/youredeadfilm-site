@@ -15,7 +15,11 @@ We want to share the creation process with YOU! You can be a part of this movie 
 
 ## Ben Rankin
 
-(Executive Producer, Writer, Director)
+(Writer, Director, Executive Producer)
+
+<!-- Ben Rankin is an artist in Chattanooga, TN with a passion for... well, a lot of things! They are an avid rock climber, reader, tech nerd, and creator. They run the science education channel [BeanStem](https://youtube.com/@beanstemsci) on YouTube and have wanted to make a short film for a LONG time!
+
+After waiting around, they decided now is as good a time as any. With some experience in video production, some dabbling in audio production, and a whole lotta ambition, they're leading the charge on makin' a gosh darn movie --> 
 
 ## Amanda Dyar
 
