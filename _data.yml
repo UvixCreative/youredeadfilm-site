@@ -11,8 +11,6 @@ nav:
       url: "/"
     - label: "About"
       url: "/about"
-    - label: "Casting call"
-      url: "/casting-call"
     - label: "Support"
       url: "https://www.gofundme.com/f/help-ben-rankin-make-his-first-short-film"
       newtab: true
